@@ -10,5 +10,18 @@ Quickly drew a sketch of what I envisioned to look like based on comments I made
 
 ![](images/wireframe.png)
 
+Note: got cut off while taking the image but there is a legend on the right hand side. Red indicates deaths and the black is suppose to represent confirmed cases. 
+
+# Testing the solution
+
+Interviewee 1: This person (my roommate) was able to quickly realize what she was reading. She immediately recongized what the graph was trying to do and the color coding. She was a little confused with the title (which I still left as "Global coronavirus cases pass 100 million cases") because she didn't understand why it was important to mention that. I responded by showing her the context of the visualiation with the rest of the website. She understood it then why it was titled as so. She was also confused of whether the total number of cases and deaths are aggregated or are they showing the # of new COVID cases per day (something that I did not take into consideration of indicating). She got the gist of what the visualization was trying to show but she had some confusion. 
+
+Interviewee 2: This person (my friend from undergrad) realized pretty quickly what the graph was trying to tell. She has a background in Public Health and had a strong interest in infectious diseases, so she was already interested in COVID to begin with. She got what the graph was trying to say and generally throught it was to the point. What she also mentioned was interesting about it was the "so what?" factor. She understood what it was trying to say but there was no clear call for her action. I wasn't sure if it was because she already had a good knowledge about COVID already and this wasn't new to her, or is there a larger issue where she didn't know what to do with the information. She asked if it was smart to break it down by continents to better show which continents are experiencing a larger amount of cases. 
+
+I think what I got from this was that context matters. Someone who doesn't have a background in tangent to the pandemic would be confused about how the information was compiled and how it was being measured. On the other hand, the other person with a background in public health was trying to think beyond the graph and the potential implications. When I first looked at the graph, I assumed that the main idea could be the title to help guide the users through the visualization. However, that isn't always the case. Also something that looked very clear to me wasn't as clear to other people depending on their background. 
+
+# Recreated data visualization
+
+
 
 
