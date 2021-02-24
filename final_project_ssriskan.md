@@ -1,12 +1,9 @@
-# Outline
-# Sketches
-# Method and Medium
 
 # How COVID is worsening health disparities in New York City
 
 New York City was the epicenter of the COVID-19 pandemic in March 2020, resulting in the entire region expereiecing a lot of trauma. Even though the COVID situation in NYC is much more manageable, there are still some issues in some neighorbhoods that are affecting certain races due to the pandemic.
 
-(Note: I originally wanted to do food scarcity in New York City but I decided to expand to health disaprities since it all ties in together anyways)
+(Note: I originally wanted to do food scarcity in New York City but I decided to expand to health disaprities since it all ties in together and there was more to show)
 
 # Call to Action
 
@@ -40,13 +37,9 @@ Link: https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-rep
 Datasource 2: NYC Gov
 Link: https://www1.nyc.gov/site/doh/covid/covid-19-data.page
 
+This is a data that measures food insecurity at the tract elvel. Can be used to better visualize the specific boroughs/areas that are experiecing health disaprities (i.e food insecurity, vaccine distribution, health hospitalization, etc..). 
 
 
-
-
-
-This is a data that measures food insecurity at the tract elvel. Can be used to better visualize the specific boroughs/areas that are experiecing food insecurity
-
-
-
-
+# Outline
+# Sketches
+# Method and Medium
