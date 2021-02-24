@@ -7,6 +7,8 @@ New York City was the epicenter of the COVID-19 pandemic in March 2020, resultin
 
 # Call to Action
 
+The purpose of this story is to share what has been going on and who is currently at risk. That way, I can provide recommendations and share resources in order to donate food/money, take action, call a representative, and/or just be knowledgeable. 
+
 
 # Data
 
