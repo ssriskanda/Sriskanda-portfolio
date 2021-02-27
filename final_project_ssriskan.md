@@ -55,37 +55,35 @@ I thought using Shorthand would be good to show how the pandemic played out in C
 **Part 1 1: The rise of the pandemic in New York City** 
 Basic overview: New York City was considered the epicenter of the pandemic. The number of cases grew rapidly, which I can use by visualizing the graph that was for New York City
 
-(line graph of COVID cases)
+![](images/dailyCOVIDcases.png)
 
 "This virus is the great equalizer" -Andrew Cuomo, Governor of New York State (said 03/21/2020)
 
 While Cuomo was insisting that virus doesn't consider factors such as race, religion, economic class, and gender, certain races were getting more infected than others. 
 
-(bar graph of % of race infected or a line graph of new infections broken down by race) 
+![](images/COVIDcases.png)
 
 Why is this happening? 
 
 Income and COVID cases are associated with one another
-(2 heat meap of New York City side by side. The left one would have based on income and the right one would be based on concentration of cases) 
+![](images/Heatmap.png)
+
 
 Worstly impacted neighborhoods are low income and non-white
-(bubble graph of the top 5 worstly affected neighborhoods to show that it's predominated brown/black communities) 
+![](images/neighborhood.png)
 
 PoC are less likely to have a car --> meaning that they are commuting around NYC compared to their white counterparts 
-(line graph showing the %) 
+![](images/Driving.png)
 
 **Part 2: June 2021 - Present: The road to herd immunity is shaky** 
 
 Despite cases dropping, there are still barriers faced by minorities (who are still the most impacted) 
 
 Minorities are uninsured (and typically don't know that testing is covered) 
-(multiple bar graph showing the race) 
+**(ADD GRAPH)**
 
-Whites are more likely to to be vaccinated than any other race even though they are not impacted the most
-(insert infographic) 
-
-Which is almost contradictory as PoC are considered front line workers and cannot stay at home
-(insert infograph)
+Whites are more likely to to be vaccinated than any other race even though they are not impacted the most (top). Which is almost contradictory as PoC are considered front line workers and cannot stay at home (bottom)
+![](images/infograph.png)
 
 **Recommendation** 
 
