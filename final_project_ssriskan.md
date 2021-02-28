@@ -9,6 +9,47 @@ New York City was the epicenter of the COVID-19 pandemic in March 2020, resultin
 
 The purpose of this story is to share what has been going on and who is currently at risk. That way, I can provide recommendations and share resources in order to take action, work with local organizations to educate low-income locals, call a representative, and/or just be knowledgeable. 
 
+# Outline/Sketches
+I thought using Shorthand would be good to show how the pandemic played out in COVID-19 and how inequality was apparent throughout all of it. I was going to break up the story into two parts. First part would be about the rise of the pandemic in NYC,its impact while it is the epicenter, and illsutrate why certain neighborhoods are hit harder. The second part would be after restrictions were put into place and the road to herd immunity to show that even recovery is still not consistent throughout. 
+
+**Tale of 2 cities: How Inequalities are Worsening COVID-19 in New York City**
+
+**Part 1: The rise of the pandemic in New York City** 
+Basic overview: New York City was considered the epicenter of the pandemic. The number of cases grew rapidly, which I can use by visualizing the graph that was for New York City
+
+![](images/dailyCovidCases.jpg)
+
+"This virus is the great equalizer" Andrew Cuomo, Governor of New York State, said on 03/21/2020. While Cuomo was insisting that virus doesn't consider factors such as race, religion, economic class, and gender, certain races were getting more infected than others. 
+
+![](images/CovidRace.jpg)
+
+This leads into the question of why are some races being more infected than others? 
+
+Income and COVID cases are associated with one another
+![](images/HeatMap.jpg)
+
+Income is associated with health disaprities that exsited prior to COVID, which shows in different ways.
+
+Worstly impacted neighborhoods are low income and non-white
+![](images/CovidNeighborhood.jpg)
+
+PoC are less likely to have a car --> meaning that they are commuting around NYC compared to their white counterparts 
+![](images/PocVehicle.jpg)
+
+**Part 2: June 2021 - Present: The road to herd immunity is shaky** 
+
+Despite cases dropping, there are still barriers faced by minorities (who are still the most impacted) Whites are more likely to to be vaccinated than any other race even though they are not impacted the most (top). Which is almost contradictory as PoC are considered front line workers and cannot stay at home (bottom)
+
+![](images/FrontlineWorker.jpg)
+![](images/PocVaccine.jpg)
+
+What can we do about this? 
+
+**Recommendation** 
+
+- Volunteer for local community outreach to raise awareness of resources low-income areas can use
+- Call local representatives to provid aid in order to alleviate some of the health disaparities 
+
 
 # Data
 
@@ -38,55 +79,12 @@ This dataset comes from the National Equity Atlas, which contains datasets about
 **Datasource 4: US Census Data**
 Link: https://www.census.gov/data/developers/data-sets/acs-5year.html
 
-This dataset comes from the US Census that collects information about the job occupations of those working. This will help me figure out the demographics of the frontline workers (which in NYC is 75% people of color). 
-
-
-# Sketches
-I thought using Shorthand would be good to show how the pandemic played out in COVID-19 and how inequality was apparent throughout all of it. I was going to break up the story into two parts. First part would be about the rise of the pandemic in NYC,its impact while it is the epicenter, and illsutrate why certain neighborhoods are hit harder. The second part would be after restrictions were put into place and the road to herd immunity to show that even recovery is still not consistent throughout. 
-
-**Tale of 2 cities: How Inequalities are Worsening COVID-19 in New York City**
-
-**Part 1 1: The rise of the pandemic in New York City** 
-Basic overview: New York City was considered the epicenter of the pandemic. The number of cases grew rapidly, which I can use by visualizing the graph that was for New York City
-
-![](images/dailyCOVIDcases.png)
-
-"This virus is the great equalizer" -Andrew Cuomo, Governor of New York State (said 03/21/2020)
-
-While Cuomo was insisting that virus doesn't consider factors such as race, religion, economic class, and gender, certain races were getting more infected than others. 
-
-![](images/COVIDcases.png)
-
-Why is this happening? 
-
-Income and COVID cases are associated with one another
-![](images/Heatmap.png)
-
-
-Worstly impacted neighborhoods are low income and non-white
-![](images/neighborhood.png)
-
-PoC are less likely to have a car --> meaning that they are commuting around NYC compared to their white counterparts 
-![](images/Driving.png)
-
-**Part 2: June 2021 - Present: The road to herd immunity is shaky** 
-
-Despite cases dropping, there are still barriers faced by minorities (who are still the most impacted) 
-
-Minorities are uninsured (and typically don't know that testing is covered) 
-**(ADD GRAPH)**
-
-Whites are more likely to to be vaccinated than any other race even though they are not impacted the most (top). Which is almost contradictory as PoC are considered front line workers and cannot stay at home (bottom)
-![](images/infograph.png)
-
-**Recommendation** 
-
-- Volunteer for local community outreach to raise awareness of resources low-income areas can use
+This dataset comes from the US Census that collects information about the job occupations of those working. This will help me figure out the demographics of the frontline workers and to visualize how those who are frontline workers are not necessarily the same people being vaccinated (which in NYC is ~75% people of color).
 
 
 # Method and Medium
 
-The medium I will likely be using for this project is Shorthand. Since what I have in mind is a timeline of the pandemic from March 2020 - present day and how differents areas were impacted, the idea of the viewer able to scroll down and see it as pandemic progresses. Based on the outline stated above, I will likely first build the visuals to see how they look and make sure they look how I imagine using Flourish and Tableau. At this point, I will see if the visualizations best represent the data the way I imagine them too. If they do not and there is a better way to make it flow, I may switch up the visualization. 
+The medium I will likely be using for this project is Shorthand. Since what I have in mind is a timeline of the pandemic from March 2020 - present day and how differents areas were impacted, the idea of the viewer able to scroll down and see it as pandemic progresses. Based on the outline stated above, I will likely first build the visuals to see how they look and make sure they look how I imagine using Flourish and Tableau most likely. At this point, I will see if the visualizations best represent the data the way I imagine them too. If they do not and there is a better way to make it flow, I may switch up the visualization. 
 
 After the visualizations, I will search for photos and backgrounds for the visualizations. Only after I manage to gather the appropiate media, then I will start building it on shorthand and adding the final touches. 
 
