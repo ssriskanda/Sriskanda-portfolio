@@ -3,48 +3,42 @@
 
 **Topic: How health disaprities in New York City is hindering COVID-19 recovery**
 
-New York City was the epicenter of the COVID-19 pandemic in March 2020, resulting in the entire region expereiecing a lot of trauma. Even though the COVID situation in NYC is much more manageable, there are still some issues in some neighorbhoods that are affecting certain races due to the pandemic.
-
-(Note: I originally wanted to do food scarcity in New York City but I decided to expand to health disaprities since it all ties in together and there was more to show)
+New York City was the epicenter of the COVID-19 pandemic in March 2020, resulting in the entire region expereiecing a lot of trauma. Even though the COVID situation in NYC is much more manageable, there are still some issues some races are expereicing more than ohters. 
 
 **Call to Action**
 
-The purpose of this story is to share what has been going on and who is currently at risk. That way, I can provide recommendations and share resources in order to donate food/money, take action, work with local organizations and educate low-income neighorbhoods, call a representative, and/or just be knowledgeable. 
+The purpose of this story is to share what has been going on and who is currently at risk. That way, I can provide recommendations and share resources in order to take action, work with local organizations to educate low-income locals, call a representative, and/or just be knowledgeable. 
 
 
 # Data
 
-**COVID DATA**
+COVID DATA
 
-Datasource 1: John Hopkins University github
-Link: https://github.com/CSSEGISandData/COVID-19
-
-Datasource 2: COVID tracking project 
+**Datasource 1: COVID tracking project**
 Link: https://covidtracking.com/
 
-Datasource 3: Data USA
-Link: https://datausa.io/profile/geo/new-york-ny#:~:text=The%205%20largest%20ethnic%20groups,and%2084.3%25%20are%20U.S.%20citizens.
+This dataset was chosen because I needed an overall view of COVID in New York City. This would be used to make the figure diagram that maps out the number of new cases coming into New York City daily. This organization scrapes data acros all health departments to keep the numbers as accurate as possible, I thought this would be the most reliable source. This will be used to create the first graph of the overall COVID classes.
 
-
-I chose these three datasets because they are all data collected from the pandemic. Data source 1 and 2 are primary souce data that is being used for most of the visualizations in the US so I think they are reliable. Datasource 3 also contains COVID data that comes from Datasource 2 but also comes in pre-aggregated form that could be easier for the visualization. 
-
-This is a data that measures food insecurity at the tract level. I picked these three because I think that this can be used to show how bad the pandemic got and in real time. I intend on using this data to map out how badly the pandemic is spreading across New York City. I think I might need multiple datasets because sometimes I might need a combination of information so I can merge them on Python/R. This would be the data that I can use to measure how severe it is. I imagine the data being used in 2 ways:
-
-1. A graph of some sort to show how COVID cases are changing over time (i.e a bar graph)
-2. A heat map to see where neighborhoods are getting more cases than others. Ideally this would be broken down based on neighborhood
-
-**HEALTH DISAPARITY DATA**
-
-Datasource 1: US Census Food Insecurity 
-Link: https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-food-security.html
-
-Datasource 2: NYC Gov
+**Datasource 2: NYC Gov**
 Link: https://www1.nyc.gov/site/doh/covid/covid-19-data.page
 
-Datasource 3: National Equity Atlas
+This dataset comes from the NYC Department of Health and Mental Hygiene. This site contains a series of datasets that can be used to build the other graphs. The datasets are broken up based on neighborhood and zipcode. It includes:
+
+- Hospitalization Rates
+- COVID cases by neighborhoods
+- Vaccinations 
+
+This can be used to build all the visualizations using Tableau and Flourish through this. 
+
+**Datasource 3: National Equity Atlas**
 Link: https://nationalequityatlas.org/
 
-This is a data that measures food insecurity at the tract level. Can be used to better visualize the specific boroughs/areas that are experiecing health disaprities (i.e food insecurity, vaccine distribution, health hospitalization, etc..). I also added National Equity Atlas in case I need data from there to map out the differences in equiality if that is difficult to do from NYC Gov
+This dataset comes from the National Equity Atlas, which contains datasets about racial equity in the US. This dataset would be used for any visualizations about having vehicles. These visualizations would be used to indicate that those who are people of color are less likely to have a vehicle and rely in NYC transportation (meaning they are more suspectible to contracting COVID)
+
+**Datasource 4: US Census Data**
+Link: https://www.census.gov/data/developers/data-sets/acs-5year.html
+
+This dataset comes from the US Census that collects information about the job occupations of those working. This will help me figure out the demographics of the frontline workers (which in NYC is 75% people of color). 
 
 
 # Sketches
