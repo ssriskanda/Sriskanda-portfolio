@@ -1,5 +1,13 @@
-
 # Part 1 Outline
+
+---
+### Table of Context
+
+1. Topic
+2. Call to Action
+3. Outline/Sketches
+4. Data
+5. Method and Medium
 
 **Topic: How health disaprities in New York City is hindering COVID-19 recovery**
 
