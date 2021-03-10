@@ -71,12 +71,13 @@ Common themes: I think for the most part, there is little confusion, which hopef
 
 Something I asked a couple of people was how to make it more engaging? I was worried that there is too many bar graphs and was brainstorming other ways to switch it up. For example, for the story about "Some races are more affected than others" has bar graphs, but I was thinking if there is another way to visualize that. After speaking to the interviewees, I may switch it into shaded bars so it can be better seen that it is a proportion of people because I was asked about that. Something I will definitely consider is to break up the solutions more clearly and make it specific depending to the audience I am going to communicate to. It didn't occur to me that it will have multiple audiences and should be addressed accordingly so I will definitely do that. I also noticed my color choices are a little out there and not consistent so based on themoodboard I create, I will be using those colors to keep the theme consistent. 
 
-Based off the feedback, these are the direct changes I will make to the wireframe:
+Based off the feedback in and out of class, these are the direct changes I will make to the wireframe:
 
 1. Change the bar graph to the slide "Some races are more affected than others." I will be making the bar graph horizontal and actually show the proportion. I think that will visually be easier for people see and compare the proportions to one another
 2. Move the vechile slide at the end of Part 1 and keep the "health stuff" together. 
 3. Add more information on the infograph that the viewer would be able to see
 4. Breakdown the solutions based on who is the target audience. 
+5. Will change the title of the presentation. The title was suppose to be based of Charles Dickens' novel "A Tale of 2 Cities" but an international student in my group didn't know the refernece so he assumed I was about to present a comparison between 2 cities. 
 
 
 ### Moodboard
