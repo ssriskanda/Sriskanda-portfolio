@@ -2,7 +2,7 @@
 
 ---
 
-### Table of Context
+### Table of Contents
 
 Part 2
    * Wireframe
