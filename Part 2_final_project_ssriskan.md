@@ -1,10 +1,10 @@
 ### Table of Context
 
 Part 2
-    * Wireframe
-    * User research
-    * Interviews
-    * Moodboard
+   * Wireframe
+   * User research
+   * Interviews
+   * Moodboard
 
 # Part 2
 ---
