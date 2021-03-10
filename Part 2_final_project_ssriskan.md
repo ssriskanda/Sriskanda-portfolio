@@ -81,3 +81,5 @@ Based off the feedback in and out of class, these are the direct changes I will 
 
 
 ### Moodboard
+
+I created a moodboard to help establish a color palatte and an overall theme. I noticed my color choices were a little over the place so I thought creating a moodboard can help me with that. 
