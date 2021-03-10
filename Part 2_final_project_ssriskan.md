@@ -18,7 +18,27 @@ Part 2
 
 Based on feedback from what I got from class, this is the intial wireframe I have and the story progression I wanted to share.
 
-**insert story**
+![](images/Part2_1.jpg)
+
+![](images/Part2_2.jpg)
+
+![](images/Part2_3.jpg)
+
+![](images/Part2_4.jpg)
+
+![](images/Part2_5.jpg)
+
+![](images/Part2_6.jpg)
+
+![](images/Part2_7.jpg)
+
+![](images/Part2_8.jpg)
+
+![](images/Part2_9.jpg)
+
+![](images/Part2_11.jpg)
+
+![](images/Part2_12.jpg)
 
 What is different was from before was that I included the death count based on race as well. In order to explain why the death count was high, I added an additional table about pre-existing conditions to justify it. I assumed that it had to be very short in order to present it in class, but I realized that having this information paints a better picture of what is going on and important for the story telling. I also am trying to incorporate more infographics so it is more visually appealing. 
 
