@@ -42,7 +42,7 @@ Based on feedback from what I got from class, this is the initial wireframe I ha
 What is different was from before was that I included the death count based on race as well. In order to explain why the death count was high, I added an additional table about pre-existing conditions to justify it. I assumed that it had to be very short in order to present it in class, but I realized that having this information paints a better picture of what is going on and important for the story telling. I also am trying to incorporate more infographics so it is more visually appealing. 
 
 
-### **User research**
+### **User Research**
 
 
 The purpose of this was to inform the public. I think while the general public (those in and out of New York City) could benefit from being aware. The people who are likely to take actions are the following groups:
@@ -99,7 +99,7 @@ Based off the feedback in and out of class, these are the direct changes I will 
 5. Will change the title of the presentation. The title was supposed to be based of Charles Dickens' novel "A Tale of 2 Cities" but an international student in my group didn't know the reference so he assumed I was about to present a comparison between 2 cities. 
 
 
-### Mood board
+### Mood Board
 
 I created a mood board to help establish a color palate and an overall theme. I noticed my color choices were a little 
 
