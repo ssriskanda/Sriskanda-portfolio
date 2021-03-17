@@ -4,7 +4,6 @@
 
 ### Table of Contents
 
-Part 2
    * Wireframe
    * User research
    * Interviews
