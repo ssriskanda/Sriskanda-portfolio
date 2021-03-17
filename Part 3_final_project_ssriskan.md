@@ -1,9 +1,8 @@
-# Presentation and Final Thoughts
+# Part 3: Presentation and Final Thoughts
 
 ---
 ### Table of Contents
 
-Part 3
    * Link to Part 1, Part 2, and final Shorthand presentation 
    * Overall Work Summary 
    * Final changes and reflection
@@ -37,11 +36,11 @@ The final changes I made where the following:
 
 3. If there is a chance to make the graphs interactive, I made an attempt to do so in Flourish. I only intended for one graph to be interactive (the bubble graph that breaks down race demographics in NYC neighborhoods), but I ended up doing the second for the bar graph about pre-existing conditions. The bar graphs for pre-existing conditions were intended to be a list of bar graphs that can be seen by scrolling. While I was in flourish, I realized I could make the different diseases a drop down option so the user can choose which disease to look at. I personally found it better to visualize, more interactive for the user, and easier on the flow of the story. While the graphs were not exactly what I anticipated, I was still happy with the results. 
 
-4. I added an additional inforgraph to show the proportion of frontline workers are people of color. While I was building my vaccination infogrpah, I was thinking to msyelf "why is this a problem." This was something I tried to emphasize in that part but adding that a majority of frontlinke workers are not white for me helped me make that point. I also added more to the 
+4. I added an additional info graph to show the proportion of frontline workers are people of color. While I was building my vaccination info graph, I was thinking to myself "why is this a problem." This was something I tried to emphasize in that part but adding that a majority of frontline workers are not white for me helped me make that point. I also added more to the 
 
 5. Per my interviewees' recommendation, I added more "call to actions" depending on who could be potentially viewing it. My original intention at Part 1 was to just have it as a tool for the general public. After hearing how other parties could be using it, I tried to tailor it accordingly by adding multiple options.
 
-6. I also adjusted my color scheme again. I created a mood board but I found it hard to stick to a particular color scheme. I kept within general color schemes but I found myself at the end being more flexible about what colors I used (especially when it comes to the infographs I made). The interviewees' are all within my close circle, so I was frequently asking for their opinion and to look. Even though it didn't stick to a "strict" color scheme, they found it use friendly and didnt hinder from the overall story.
+6. I also adjusted my color scheme again. I created a mood board but I found it hard to stick to a particular color scheme. I kept within general color schemes but I found myself at the end being more flexible about what colors I used (especially when it comes to the info graphs I made). The interviewees' are all within my close circle, so I was frequently asking for their opinion and to look. Even though it didn't stick to a "strict" color scheme, they found it use friendly and didn’t hinder from the overall story.
 
 Overall, this was a challenge for myself and I am proud with the product I am left with. 
 
@@ -94,5 +93,3 @@ New York City Comptroller: https://comptroller.nyc.gov/reports/new-york-citys-fr
 [8]Thompson, Corinne N. “COVID-19 Outbreak - New York City, February 29–June 1, 2020.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 17 Dec. 2020, www.cdc.gov/mmwr/volumes/69/wr/mm6946a2.htm. 
 
 [9]Yang, Yuegi. “New York City Initial Vaccine Data Show Deep Race Disparity.” Bloomberg.com, Bloomberg, 31 Jan. 2021, www.bloomberg.com/news/articles/2021-01-31/new-york-city-initial-vaccine-data-shows-profound-race-disparity. 
-
-
