@@ -77,3 +77,22 @@ New York City Comptroller: https://comptroller.nyc.gov/reports/new-york-citys-fr
 
 **Citations**
 
+[1]“COVID-19: Data.” COVID-19: Data on Vaccines - NYC Health, www1.nyc.gov/site/doh/covid/covid-19-data-vaccines.page. 
+
+[2]“Desegregating NYC.” Brad Lander, council.nyc.gov/brad-lander/new-council-report-outlines-12-steps-toward-desegregating-nyc-2/. 
+
+[3]Dzhanova, Yelena. “New York State Now Has More Coronavirus Cases than Any Country Outside the US.” CNBC, CNBC, 10 Apr. 2020, www.cnbc.com/2020/04/10/new-york-state-now-has-more-coronavirus-cases-than-any-country-outside-the-us.html. 
+
+[4]Kim, Juliana. “Vaccine Distribution Is Underway in New York.” The New York Times, The New York Times, 15 Dec. 2020, www.nytimes.com/2020/12/15/nyregion/vaccine-distribution-new-york-city.html. 
+
+[5]“New York City's Frontline Workers.” Comptroller.nyc.gov, 26 Mar. 2020, comptroller.nyc.gov/reports/new-york-citys-frontline-workers/. 
+
+[6]Schwirtz, Michael, and Lindsey Rogers Cook. “These N.Y.C. Neighborhoods Have the Highest Rates of Virus Deaths.” The New York Times, The New York Times, 19 May 2020, www.nytimes.com/2020/05/18/nyregion/coronavirus-deaths-nyc.html. 
+
+[7]Tanya Albert Henry. “Data from 10 Cities Show COVID-19 Impact Based on Poverty, Race.” American Medical Association, 5 Aug. 2020, www.ama-assn.org/delivering-care/health-equity/data-10-cities-show-covid-19-impact-based-poverty-race. 
+
+[8]Thompson, Corinne N. “COVID-19 Outbreak - New York City, February 29–June 1, 2020.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 17 Dec. 2020, www.cdc.gov/mmwr/volumes/69/wr/mm6946a2.htm. 
+
+[9]Yang, Yuegi. “New York City Initial Vaccine Data Show Deep Race Disparity.” Bloomberg.com, Bloomberg, 31 Jan. 2021, www.bloomberg.com/news/articles/2021-01-31/new-york-city-initial-vaccine-data-shows-profound-race-disparity. 
+
+
