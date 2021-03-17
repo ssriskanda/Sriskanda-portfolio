@@ -20,13 +20,13 @@ Final presentation can be seen [here](https://carnegiemellon.shorthandstories.co
   * Data
   * Method and Medium
 
-[Part 2](https://ssriskanda.github.io/Sriskanda-portfolio/Part%201_final_project_ssriskan.html)
+[Part 2](https://ssriskanda.github.io/Sriskanda-portfolio/Part%202_final_project_ssriskan.html)
   * Wireframe
   * User research
   * Interviews
   * Moodboard
 
-[Part 3](https://ssriskanda.github.io/Sriskanda-portfolio/Part%201_final_project_ssriskan.html)
+[Part 3](https://ssriskanda.github.io/Sriskanda-portfolio/Part%203_final_project_ssriskan.html)
   * Link to Part 1, Part 2, and final Shorthand presentation 
   * Overall Work Summary 
   * Final changes and reflection
