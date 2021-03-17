@@ -14,7 +14,7 @@ Part 1
 # Part 1
 ---
  
-**Topic**
+# **Topic**
 
 Topic: : How health disparities in New York City is hindering COVID-19 recovery
 
