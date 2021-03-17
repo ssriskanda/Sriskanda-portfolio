@@ -3,7 +3,6 @@
 ---
 ### Table of Context
 
-Part 1
 * Topic
 * Call to Action
 * Outline/Sketches
